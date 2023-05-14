@@ -23,6 +23,8 @@ The source code is built for ESP32 microcontroller and compiled through the Ardu
 | -------- | ------------ |
 | ESP32    | Pin 25       |
 
+[![Connecting Speaker to ESP32](https://iotdesignpro.com/sites/default/files/inline-images/Circuit-Diagram-for-ESP32-based-Webserver-for-Text-to-Speech-Conversion.png)](https://iotdesignpro.com/projects/esp32-based-text-to-speech-converter-webserver)
+
 [![LM386 Audio Amplifier Circuit Diagram](https://iotdesignpro.com/sites/default/files/inline-images/LM386-Based-Audio-Amplifier-Circuit.png)](https://circuitdigest.com/electronic-circuits/lm386-audio-amplifier-circuit)
 
 ## Documentation
