@@ -11,12 +11,11 @@ The source code is built for ESP32 microcontroller and compiled through the Ardu
 - [Install](https://www.arduino.cc/en/software) Arduino IDE to edit source code and upload code to the ESP32 microcontroller.
 - [Install](https://github.com/ArminJo/Talkie) the Talkie library.
 - Increasing Max Tokenization Length in Arduino IDE:
-
-* Press the 'Ctrl'+'Shift'+'P' keyboard shortcut ('Command'+'Shift'+'P' for macOS users) to open the "Command Palette".
-* Select the "Preferences: Open Settings (UI)" command from the menu.
-* A "Preferences" tab will now open in the Arduino IDE main panel. In the "Search Settings" field, type 'editor.maxTokenizationLineLength'.
-* Adjust the value of the "Editor: Max Tokenization Line Length" to 2000000.
-* Click the X icon on the "Preferences" tab.
+  - Press the <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> keyboard shortcut (<kbd>Command</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> for macOS users) to open the "Command Palette".
+  - Select the "Preferences: Open Settings (UI)" command from the menu.
+  - A "Preferences" tab will now open in the Arduino IDE main panel. In the "Search Settings" field, type 'editor.maxTokenizationLineLength'.
+  - Adjust the value of the <code class="notranslate">editor.maxTokenizationLineLength</code> to 2000000.
+  - Click the X icon on the "Preferences" tab.
 
 ## Circuit Diagram
 
@@ -24,7 +23,7 @@ The source code is built for ESP32 microcontroller and compiled through the Ardu
 | -------- | ------------ |
 | ESP32    | Pin 25       |
 
-[(https://iotdesignpro.com/sites/default/files/inline-images/LM386-Based-Audio-Amplifier-Circuit.png)](https://circuitdigest.com/electronic-circuits/lm386-audio-amplifier-circuit)
+[![LM386 Audio Amplifier Circuit Diagram](https://iotdesignpro.com/sites/default/files/inline-images/LM386-Based-Audio-Amplifier-Circuit.png)](https://circuitdigest.com/electronic-circuits/lm386-audio-amplifier-circuit)
 
 ## Documentation
 
