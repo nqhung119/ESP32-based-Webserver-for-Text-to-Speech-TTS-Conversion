@@ -13,8 +13,8 @@ The source code is built for ESP32 microcontroller and compiled through the Ardu
 - Increasing Max Tokenization Length in Arduino IDE:
   - Press the <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> keyboard shortcut (<kbd>Command</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> for macOS users) to open the "Command Palette".
   - Select the "Preferences: Open Settings (UI)" command from the menu.
-  - A "Preferences" tab will now open in the Arduino IDE main panel. In the "Search Settings" field, type 'editor.maxTokenizationLineLength'.
-  - Adjust the value of the <code class="notranslate">editor.maxTokenizationLineLength</code> to 2000000.
+  - A "Preferences" tab will now open in the Arduino IDE main panel. In the "Search Settings" field, type <code class="notranslate">editor.maxTokenizationLineLength</code>.
+  - Adjust the value of the "Editor: Max Tokenization Line Length" to 2000000.
   - Click the X icon on the "Preferences" tab.
 
 ## Circuit Diagram
